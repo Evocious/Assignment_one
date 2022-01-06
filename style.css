@@ -16,6 +16,7 @@
   color:rgb(241, 159, 36);
 }
 .first-image{
+  
   margin-left: 200px;
   padding-top: 50px;
 
@@ -37,14 +38,48 @@
   background-color: salmon;
   border-radius:5px;
   color:white;
-  margin-right: 750px;
-  padding:10px 20px;
+  margin-right: 740px;
+  padding:10px 15px;
   
 }
 .left-spacing{
   margin-left: 100px;
+  
 
 }
 .right-spacing{
-  margin-right:70px;
+  margin-right:100px;
+}
+.header{
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 70px;
+  text-align:center;
+  word-spacing: 3px;
+}
+.deep-blue{
+  color: rgb(0, 0, 48);
+}
+.illustration{
+  max-width:30%;
+}
+.box-pad h2{
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 40px;
+}
+.box-pad{
+  border-radius: 30px;
+  padding: 20px 30px 10px;
+
+}
+.b-bg{
+  background-color: rgba(0, 255, 255, 0.171);
+}
+.r-bg{
+  background-color: rgba(255, 105, 180, 0.171);
+}
+.y-bg{
+  background-color: rgba(240, 230, 140, 0.315);
+}
+.b-m{
+  margin-left:30px;
 }
