@@ -1,3 +1,6 @@
+body{
+  margin:0;
+}
 .flex-container{
   display: flex;
 }
@@ -117,4 +120,21 @@
 }
 .image-align{
   margin-left: 100px;
+}
+footer{
+  background-color: rgb(0, 0, 17);
+  padding-bottom:50px;
+}
+.footer-txt{
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  color: white;
+  font-size: 25px;
+  word-spacing: 2px;
+}
+.footer-header{
+  
+  font-family: 'Karla', sans-serif;
+  color: white;
+  font-size: 50px;
+  padding-top: 50px;
 }
