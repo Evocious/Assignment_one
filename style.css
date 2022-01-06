@@ -53,8 +53,34 @@
 .header{
   font-family: 'Yanone Kaffeesatz', sans-serif;
   font-size: 70px;
-  text-align:center;
+
   word-spacing: 3px;
+}
+.center{
+  text-align: center;
+}
+.left{
+  text-align: left;
+}
+
+.image{
+  width: 600px;
+  height: 600px;
+  margin-top: 100px;
+}
+
+.h-m{
+  margin-left:100px ;
+  margin-top: 200px;
+}
+.t-m{
+  margin-left: 100px;
+  padding-right: 300px;
+}
+
+.button-m{
+  margin-left:100px;
+  width: 195px;
 }
 .deep-blue{
   color: rgb(0, 0, 48);
