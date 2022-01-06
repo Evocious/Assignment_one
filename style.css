@@ -82,6 +82,9 @@
   margin-left:100px;
   width: 195px;
 }
+.button-m-2{
+  width: 195px;
+}
 .deep-blue{
   color: rgb(0, 0, 48);
 }
@@ -108,4 +111,10 @@
 }
 .b-m{
   margin-left:30px;
+}
+.h-m-2{
+  margin-top: 200px;
+}
+.image-align{
+  margin-left: 100px;
 }
